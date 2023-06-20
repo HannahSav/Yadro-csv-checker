@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687121626 source:c:\users\hannah\desktop\stajki\hh\yadro_csv_checker\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<map>
+
